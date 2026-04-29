@@ -20,6 +20,8 @@
 
 $$\textcolor{#1adb7e}{tken}$$  ⋮  ships iwc
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=typewriter&size=14&pause=1000&color=2DD78B&center=true&width=435&lines=%22+I+want+to+save+that+little+kid!+%22;%22+I'm+the+Deku+who+always+does+his+best!+%22;%22+I'll+do+my+best!+%22)](https://git.io/typing-svg)
+
 <img src="https://img.sanishtech.com/u/645adb97788f9b83230d3fb480490ec8.png" alt="1000024788" width="600" height="174" loading="lazy" style="max-width:100%;height:auto;">
 
 </div>
